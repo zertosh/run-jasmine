@@ -1,0 +1,25 @@
+{
+  "name": "run-jasmine",
+  "version": "0.0.0",
+  "description": "run-jasmine",
+  "keywords": [
+    "jasmine"
+  ],
+  "license": "MIT",
+  "author": "Andres Suarez <zertosh@gmail.com>",
+  "files": [
+    "run-jasmine.js"
+  ],
+  "main": "run-jasmine.js",
+  "repository": "https://github.com/zertosh/run-jasmine",
+  "scripts": {
+    "test": "./test/test.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.0.0"
+  },
+  "peerDependencies": {
+    "jasmine": "^2.0.0"
+  }
+}
